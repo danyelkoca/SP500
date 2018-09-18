@@ -10,4 +10,4 @@ PDF file includes background, method, and how to run the programs found in this 
 
 Others are matlab files which test the code with some toy datas, retrieve and plot the financial data. project_stock.m is where all the action happens.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%2012.png)
