@@ -12,6 +12,7 @@ Others are matlab files which test the code with some toy datas, retrieve and pl
 
 Some nice figures from this project:
 
-![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%2012.png)
-![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%2014.png)
-![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%202.png)
+![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figures/Figure%202.png)
+![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figures/Figure%2012.png)
+![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figues/Figure%2014.png)
+
