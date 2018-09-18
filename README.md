@@ -1,4 +1,4 @@
-# Stock Market Prediction with MAchine Learning
+# Stock Market Prediction with Machine Learning
 This was my final project for the Matlab class of spring semester, 2018. It is an implementation of machine learning on stock market data.
 
 For this project, no libraries were used. The deep learning algorithm was written manually based on mathematical principles
