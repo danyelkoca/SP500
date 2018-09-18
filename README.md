@@ -1,7 +1,7 @@
 # Stock Market Prediction with Machine Learning
 This was my final project for the Matlab class of spring semester, 2018. It is an implementation of machine learning on stock market data.
 
-For this project, no libraries were used. The deep learning algorithm was written manually based on mathematical principles
+For this project, no libraries were used. The deep learning algorithm was written manually based on mathematical principles.
 
 
 2 csv files are the daily data for S&P 500 and VIX index, both retrieved from Yahoo Finance. S&P goes back to 1950s while VIX goes back to 1990s. I used a modified version of realized standard deviation to extrapolate VIX into 1950s.
