@@ -1,4 +1,3 @@
-% Author: Danyel Koca - 1023281915
 % Matlab Final Project
 % July 19, 2018
 
