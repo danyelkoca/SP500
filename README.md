@@ -5,5 +5,3 @@ This was my final project for the Matlab class of spring semester, 2018. It is a
 PDF file includes background, method, and how to run the programs found in this repository. Sort of a walk-through. It is intended for people who don't have thorough understanding of stock market analysis.
 
 Others are matlab files which retrieve, plot and test the code with some toy datas. project_stock.m is where all the action happens.
-
-If you read the PDF file, it makes it easier to grasp what the program does and how to make it work.
