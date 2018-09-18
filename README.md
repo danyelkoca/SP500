@@ -15,4 +15,3 @@ Some nice figures from this project:
 ![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%2012.png)
 ![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%2014.png)
 ![alt text](https://github.com/danyelkoca/matlab-project/blob/master/Figure%202.png)
-![alt text](https://imgur.com/a/4LaZiiR)
