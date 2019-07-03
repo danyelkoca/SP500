@@ -1,4 +1,4 @@
-% Matlab Final Project
+% Matlab Project
 % July 15, 2018
 
 % This program visualizes the closing price of S&P 500 and 
