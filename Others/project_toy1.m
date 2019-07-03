@@ -1,4 +1,4 @@
-% Matlab Final Project
+% Matlab Project
 % July 19, 2018
 
 % This program tests the model with toy data - 1
