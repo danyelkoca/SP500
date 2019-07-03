@@ -1,4 +1,4 @@
-% Matlab Final Project
+% Matlab Project
 % July 15, 2018
 
 % This program gets the data found in the directory
